@@ -1,0 +1,22 @@
+{
+  "name": "memotest-juan6s",
+  "version": "1.0.0",
+  "description": "Juego de memotest para r/argentinaPrograma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juan6s/memotest.git"
+  },
+  "author": "Juan Francisco Carrizo (Juan6s)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juan6s/memotest/issues"
+  },
+  "homepage": "https://github.com/Juan6s/memotest#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
